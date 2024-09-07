@@ -923,3 +923,8 @@
   contact: https://github.com/lx-0/devcontainer-templates/issues
   repository: https://github.com/lx-0/devcontainer-templates
   ociReference: ghcr.io/lx-0/devcontainer-templates
+- name: Flutter DevContainer Template
+  maintainer: Robert DeRienzo
+  contact: https://github.com/RobertLD/flutter-devcontainer/issues
+  repository: https://github.com/RobertLD/flutter-devcontainer
+  ociReference: ghcr.io/RobertLD/flutter-devcontainer
