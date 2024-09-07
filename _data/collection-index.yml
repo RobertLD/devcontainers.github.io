@@ -923,3 +923,8 @@
   contact: https://github.com/lx-0/devcontainer-templates/issues
   repository: https://github.com/lx-0/devcontainer-templates
   ociReference: ghcr.io/lx-0/devcontainer-templates
+- name: Dev Container Templates by RobertLD
+  maintainer: Robert DeRienzo
+  contact: https://github.com/RobertLD/devc-templates/issues
+  repository: https://github.com/RobertLD/devc-templates
+  ociReference: ghcr.io/RobertLD/devc-templates
